@@ -27,4 +27,3 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 ![GitHub](https://skills.thijs.gg/icons?i=github,&theme=light)
 ![Git](https://skills.thijs.gg/icons?i=git,&theme=light)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
