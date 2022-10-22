@@ -1,4 +1,4 @@
-### **Hi everyone on this profile** 
+### **Hi everyone on this profile** 👋
 
 ## About me
 
