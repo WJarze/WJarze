@@ -1,5 +1,5 @@
 ### **Hi everyone on this profile** 
-I come from **Bydgoszcz**, currently i live and working in **Gdańsk** 
+I come from **Bydgoszcz**, currently i live and working in **Gdańsk.** 
 
 ## Connect with me:
 
