@@ -21,4 +21,6 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### Tools and Technologies
 
+![GitHub](https://skills.thijs.gg/icons?i=github,&theme=light)
 ![Git](https://skills.thijs.gg/icons?i=git,&theme=light)
+
