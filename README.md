@@ -1,4 +1,5 @@
 ### **Hi everyone on this profile** 
+### I'm Wojtek.
 I come from **Bydgoszcz**, currently i live and working in **Gdańsk.** 
 
 ## Connect with me:
