@@ -10,6 +10,8 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wojciech-jarzębski-240805254/)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/wojtekJ4/)<br>
 
 ## Skills:
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 
 #### Languages:
 
