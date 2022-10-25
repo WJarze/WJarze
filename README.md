@@ -30,5 +30,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ##
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WJarze&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WJarze&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJarze&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
