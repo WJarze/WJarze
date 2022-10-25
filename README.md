@@ -27,3 +27,5 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 ![GitHub](https://skills.thijs.gg/icons?i=github,&theme=light)
 ![Git](https://skills.thijs.gg/icons?i=git,&theme=light)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
