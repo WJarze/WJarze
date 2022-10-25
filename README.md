@@ -1,5 +1,4 @@
-## **Hi everyone on this profile  👋 glad to see you here!**
-
+## **Hi everyone on this profile  👋, glad to see you here!** &nbsp;
 ## About me
 
 I'm  **Wojtek**.
