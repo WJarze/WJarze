@@ -30,6 +30,19 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 ![Git](https://skills.thijs.gg/icons?i=git,&theme=light)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 October 2022 - To: 25 October 2022
+
+Total Time: 2 hrs 5 mins
+
+Java             1 hr 49 mins    >>>>>>>>>>>>>>>>>>>>>>---   87.61 %
+XML              7 mins          >>-----------------------   06.27 %
+Text             5 mins          >------------------------   04.56 %
+GitIgnore file   1 min           -------------------------   01.54 %
+IDEA_MODULE      0 secs          -------------------------   00.01 %
+```
+
 <!--END_SECTION:waka-->
 ##
 <p>
