@@ -5,7 +5,7 @@
 I'm  **Wojtek**.
 I come from **Bydgoszcz**, currently i live and working in **Gdańsk.** 
 
-My passion ♥♥ is programming, fishing and dogs.
+**My passion** ♥♥ is programming, fishing and dogs.
 
 ## Connect with me:
 
