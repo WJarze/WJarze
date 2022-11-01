@@ -1,4 +1,4 @@
-## **Hi everyone on this profile  👋, glad to see you here!** &nbsp; <img src="https://komarev.com/ghpvc/?username=WJarze&style=flat-square&color=blue" alt=""/>
+## **Hi everyone 👋, glad to see you here!** &nbsp; <img src="https://komarev.com/ghpvc/?username=WJarze&style=flat-square&color=blue" alt=""/>
 
 ## About me
 
