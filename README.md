@@ -21,7 +21,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### IDEs
 
-![IntelliJ IDEA](https://skills.thijs.gg/icons?i=idea,&theme=light)
+![IntelliJ IDEA](https://skills.thijs.gg/icons?i=idea,visualstudio,&theme=light)
 
 ### Database
 
@@ -29,7 +29,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### Tools and Technologies
 
-![GitHub](https://skills.thijs.gg/icons?i=github,git,&theme=light)
+![GitHub](https://skills.thijs.gg/icons?i=github,git,maven,Lombok,&theme=light)
 
 <!--START_SECTION:waka-->
 
