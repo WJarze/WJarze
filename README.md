@@ -23,15 +23,13 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 ![IntelliJ IDEA](https://skills.thijs.gg/icons?i=idea,&theme=light)
 
+### Database
 
-#### Database
-
-**in progress !**
+![My database](https://skillicons.dev/icons?i=mongo,&theme=light)
 
 #### Tools and Technologies
 
-![GitHub](https://skills.thijs.gg/icons?i=github,&theme=light)
-![Git](https://skills.thijs.gg/icons?i=git,&theme=light)
+![GitHub](https://skills.thijs.gg/icons?i=github,git,&theme=light)
 
 <!--START_SECTION:waka-->
 
