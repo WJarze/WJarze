@@ -29,7 +29,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### Tools and Technologies
 
-![GitHub](https://skills.thijs.gg/icons?i=github,git,maven,Lombok,&theme=light)
+![GitHub](https://skills.thijs.gg/icons?i=github,git,maven,Lombok,hibernate,&theme=light)
 
 <!--START_SECTION:waka-->
 
