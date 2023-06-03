@@ -33,8 +33,8 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 <!--START_SECTION:waka-->
 
-```text
-From: 24 October 2022 - To: 31 May 2023
+```txt
+From: 24 October 2022 - To: 01 June 2023
 
 Total Time: 426 hrs 37 mins
 
