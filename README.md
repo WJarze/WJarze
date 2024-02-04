@@ -30,6 +30,8 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 #### Tools and Technologies
 
 ![GitHub](https://skills.thijs.gg/icons?i=github,git,maven,hibernate,arduino,&theme=light)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.5-success?logo=spring)](https://spring.io/projects/spring-boot)
+
 
 <!--START_SECTION:waka-->
 
