@@ -17,11 +17,11 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### Languages:
 
-![Java]([https://skills.thijs.gg/icons?i=java,&theme=light](https://skillicons.dev/icons?i=java&theme=light))
+![Java](https://skillicons.dev/icons?i=java&theme=light)
 
 #### IDEs
 
-![IntelliJ IDEA](https://skills.thijs.gg/icons?i=idea,visualstudio,&theme=light)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 
 ### Database
 
