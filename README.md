@@ -29,7 +29,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### Tools and Technologies
 
-![GitHub](https://skillicons.dev/icons?i=github,spring,git,maven,hibernate,docker,arduino,html&theme=light)
+![GitHub](https://skillicons.dev/icons?i=spring,hibernate,maven,docker,html,github,git,arduino&theme=light)
 
 
 <!--START_SECTION:waka-->
