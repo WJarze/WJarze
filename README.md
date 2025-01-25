@@ -25,7 +25,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 ### Database
 
-![My database](https://skillicons.dev/icons?i=mongo,&theme=light)
+![My database](https://skillicons.dev/icons?i=mongo,mysql&theme=light)
 
 #### Tools and Technologies
 
