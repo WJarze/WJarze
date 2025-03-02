@@ -21,7 +21,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 
 #### IDEs
 
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea,vcs&theme=light)
 
 ### Database
 
