@@ -35,14 +35,14 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2022 - To: 14 January 2026
+From: 24 October 2022 - To: 15 January 2026
 
-Total Time: 1,757 hrs 55 mins
+Total Time: 1,764 hrs 16 mins
 
-Java                  1,536 hrs 46 mins>>>>>>>>>>>>>>>>>>>>>>---   87.42 %
-HTML                  79 hrs 37 mins  >------------------------   04.53 %
-XML                   38 hrs 8 mins   >------------------------   02.17 %
-JavaScript            35 hrs 29 mins  >------------------------   02.02 %
+Java                  1,542 hrs 17 mins>>>>>>>>>>>>>>>>>>>>>>---   87.42 %
+HTML                  79 hrs 55 mins  >------------------------   04.53 %
+XML                   38 hrs 11 mins  >------------------------   02.16 %
+JavaScript            35 hrs 58 mins  >------------------------   02.04 %
 textmate              18 hrs          -------------------------   01.02 %
 ```
 
