@@ -35,7 +35,7 @@ I come from **Bydgoszcz**, currently i live and working in **Gdańsk.**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2022 - To: 28 September 2026
+From: 24 October 2022 - To: 29 September 2026
 
 Total Time: 2,146 hrs 22 mins
 
